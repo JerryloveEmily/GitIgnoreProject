@@ -1,6 +1,6 @@
-以下就是不需要经过git版本控制来提交的，具体代码可以查看工程中的.gitignore文件:
-
-# IntelliJ IDEA(IDE相关的设置)
+#以下就是不需要经过git版本控制来提交的，具体代码可以查看工程中的.gitignore文件:
+----
+**IntelliJ IDEA(IDE相关的设置)**
 1. .idea
 2. *.iml
 3. *.ipr
