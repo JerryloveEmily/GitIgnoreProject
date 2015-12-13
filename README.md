@@ -1,14 +1,14 @@
 
 # IntelliJ IDEA(IDE相关的设置)
-.idea
-*.iml
-*.ipr
-*.iws
+1. .idea
+2. *.iml
+3. *.ipr
+4. *.iws
 
 # Gradle（gradle相关的）
-.gradle
-gradlew.bat
-build
+1. .gradle
+2. gradlew.bat
+3. build
 
 # Local configuration file (sdk path, etc)(本地的配置文件：sdk的路径等)
 local.properties
