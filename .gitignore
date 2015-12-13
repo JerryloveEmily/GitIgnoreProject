@@ -21,7 +21,7 @@ jacoco.exec
 .DS_Store
 
 
-# Built application files（构建的app文件）
+# Build application files（构建的app文件）
 *.apk
 *.ap_
 

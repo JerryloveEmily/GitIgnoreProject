@@ -25,7 +25,7 @@
 .DS_Store
 
 
-**Built application files（构建的app文件）**
+**Build application files（构建的app文件）**
 
 1. *.apk
 2. *.ap_
